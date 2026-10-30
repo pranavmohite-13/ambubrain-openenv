@@ -285,7 +285,7 @@ project/
 ## Backend
 
 ```bash
-cd ambubrain
+cd ambubrain-openenv
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
