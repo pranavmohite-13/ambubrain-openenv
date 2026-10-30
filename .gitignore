@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.log
+output*.txt
+validate*.txt
+dump.txt
+tmp_inspect.py
